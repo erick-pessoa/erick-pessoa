@@ -24,10 +24,17 @@
 </p>
 
 
-<!-- GRÁFICO DOS COMMITS-->
+<!-- REDES SOCIAIS-->
 <div align="center" >  
 <a href="https://www.instagram.com/erickpessoapinto/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href="https://api.whatsapp.com/send?phone=5583998824820" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-34af23?style=for-the-badge&logo=Whatsapp&logoColor=white"</a>  
 </div> 
   
   
+<!--CONTAGEM DE PESSOAS QUE VISITÃO MEU PERFIL DO GIT-->  
+<div align="center">
+<br><p align="centre"><b>Contagem de visitantes</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{erick-pessoa}/count.svg" /></p> 
+<br></div>  
+  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>

@@ -60,3 +60,10 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=erick-pessoa&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
+
+  
+<!-- NÚMERO DE VISITAS--> 
+<div align="center">
+<br><p align="centre"><b>CONTAGEM DE VISITAS</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{erick-pessoa}/count.svg" /></p> 
+<br></div>  

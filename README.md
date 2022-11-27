@@ -50,6 +50,7 @@
 <a href="erick.pessoa.2014@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=Gmail&logoColor=white"</a>
 </div>
 
+<br/>
   
 <!-- GRÁFICO DOS COMMITS-->
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=erick-pessoa&theme=gotham&hide_border=true&area=true)

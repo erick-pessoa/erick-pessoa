@@ -7,17 +7,28 @@
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=erick-pessoa&theme=radical&show_icons=true&icon_color=F8F8FF&text_color=F8F8FF" alt="Erick Pessoa github stats" /> 
   
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erick-pessoa&layout=compact&show_icons=true&theme=radical" alt="Erick Pessoa github stats"/>
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erick-pessoa&layout=compact&show_icons=true&theme=radical" alt="Erick Pessoa github stats"/>
 </div>
 
+## Tecnologías atual
+<div align="left"> 
+<img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="erick-pessoa" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">    
+<img align="center" alt="erick-pessoa" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</div>
+
+##
 
 <!-- REDES SOCIAIS-->
-<div align="center" >  
+<div align="center">  
 <a href="https://www.instagram.com/erickpessoapinto/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href="https://api.whatsapp.com/send?phone=5583998824820" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-34af23?style=for-the-badge&logo=Whatsapp&logoColor=white"</a>  
-</div> 
+<a href="https://api.whatsapp.com/send?phone=5583998824820" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-34af23?style=for-the-badge&logo=Whatsapp&logoColor=white"</a>
+<a href="https://discord.gg/3JpETVWP" target="_blank"><img src="https://img.shields.io/badge/-Discord-7289da?style=for-the-badge&logo=Discord&logoColor=white"</a> 
+<a href="https://www.linkedin.com/in/erickpessoapinto/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"</a>
+<a href="erick.pessoa.2014@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=Gmail&logoColor=white"</a>
+</div>
 
-
+  
 <!-- GRÁFICO DOS COMMITS-->
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=erick-pessoa&theme=gotham&hide_border=true&area=true)
 

@@ -39,10 +39,10 @@
 <img align="center" alt="ERICK-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
 
-
+<br/>
 
 <!-- REDES SOCIAIS-->
-<div align="center" top="50px">  
+<div align="center">  
 <a href="https://www.instagram.com/erickpessoapinto/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href="https://api.whatsapp.com/send?phone=5583998824820" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-34af23?style=for-the-badge&logo=Whatsapp&logoColor=white"</a>
 <a href="https://discord.gg/3JpETVWP" target="_blank"><img src="https://img.shields.io/badge/-Discord-7289da?style=for-the-badge&logo=Discord&logoColor=white"</a> 
@@ -59,6 +59,3 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=erick-pessoa&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
-  
-
-  

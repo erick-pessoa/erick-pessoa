@@ -40,8 +40,9 @@
 </div>
 
 
+
 <!-- REDES SOCIAIS-->
-<div align="center">  
+<div align="center" top="50px">  
 <a href="https://www.instagram.com/erickpessoapinto/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href="https://api.whatsapp.com/send?phone=5583998824820" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-34af23?style=for-the-badge&logo=Whatsapp&logoColor=white"</a>
 <a href="https://discord.gg/3JpETVWP" target="_blank"><img src="https://img.shields.io/badge/-Discord-7289da?style=for-the-badge&logo=Discord&logoColor=white"</a> 

@@ -10,6 +10,8 @@
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erick-pessoa&layout=compact&show_icons=true&theme=radical" alt="Erick Pessoa github stats"/>
 </div>
 
+
+<!-- CONHECIMENTOS E SEUS NÍVEIS-->
 ## Tecnologia Main
 <div align="left"> 
 <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -31,18 +33,11 @@
 
 ## Ferramentas
 <div align="left"> 
-<img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
-<img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg">
+<img align="center" alt="E-visualstudio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
+<img align="center" alt="ERICK-github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg">
+<img align="center" alt="ERICK-canva" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">
+<img align="center" alt="ERICK-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
-
-
-
-
-
-
-
-
-
 
 
 <!-- REDES SOCIAIS-->
@@ -63,4 +58,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=erick-pessoa&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
+  
 
+  

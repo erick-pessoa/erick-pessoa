@@ -47,7 +47,7 @@
 <a href="https://api.whatsapp.com/send?phone=5583998824820" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-34af23?style=for-the-badge&logo=Whatsapp&logoColor=white"</a>
 <a href="https://discord.gg/3JpETVWP" target="_blank"><img src="https://img.shields.io/badge/-Discord-7289da?style=for-the-badge&logo=Discord&logoColor=white"</a> 
 <a href="https://www.linkedin.com/in/erickpessoapinto/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"</a>
-<a href="erick.pessoa.2014@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=Gmail&logoColor=white"</a>
+<a href="mailto:erick.pessoa.2014@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=Gmail&logoColor=white"</a>
 </div>
 
 <br/>
